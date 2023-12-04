@@ -1,4 +1,3 @@
 # Manager
 
-This is a test
-Another test
+testeo
